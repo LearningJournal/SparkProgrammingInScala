@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: org.javassist:javassist:3.22.0-CR2:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/javassist/javassist/3.22.0-CR2/javassist-3.22.0-CR2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/javassist/javassist/3.22.0-CR2/javassist-3.22.0-CR2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
