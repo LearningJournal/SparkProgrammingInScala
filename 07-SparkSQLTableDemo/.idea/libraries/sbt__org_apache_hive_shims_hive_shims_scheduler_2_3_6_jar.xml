@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: org.apache.hive.shims:hive-shims-scheduler:2.3.6:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.apache.hive.shims/hive-shims-scheduler/jars/hive-shims-scheduler-2.3.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.apache.hive.shims/hive-shims-scheduler/srcs/hive-shims-scheduler-2.3.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

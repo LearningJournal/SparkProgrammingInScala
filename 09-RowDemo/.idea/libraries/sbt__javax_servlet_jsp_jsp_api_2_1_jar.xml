@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: javax.servlet.jsp:jsp-api:2.1:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/javax.servlet.jsp/jsp-api/jars/jsp-api-2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/javax.servlet.jsp/jsp-api/srcs/jsp-api-2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

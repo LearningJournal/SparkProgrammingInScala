@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: org.apache.hive:hive-serde:2.3.6:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.apache.hive/hive-serde/jars/hive-serde-2.3.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.apache.hive/hive-serde/srcs/hive-serde-2.3.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

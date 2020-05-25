@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: com.github.joshelser:dropwizard-metrics-hadoop-metrics2-reporter:0.1.2:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.github.joshelser/dropwizard-metrics-hadoop-metrics2-reporter/jars/dropwizard-metrics-hadoop-metrics2-reporter-0.1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.github.joshelser/dropwizard-metrics-hadoop-metrics2-reporter/srcs/dropwizard-metrics-hadoop-metrics2-reporter-0.1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

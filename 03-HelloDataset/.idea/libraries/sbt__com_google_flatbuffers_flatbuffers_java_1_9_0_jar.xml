@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: com.google.flatbuffers:flatbuffers-java:1.9.0:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.google.flatbuffers/flatbuffers-java/bundles/flatbuffers-java-1.9.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.google.flatbuffers/flatbuffers-java/srcs/flatbuffers-java-1.9.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

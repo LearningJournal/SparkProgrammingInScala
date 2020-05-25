@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: org.apache.commons:commons-text:1.6:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.apache.commons/commons-text/jars/commons-text-1.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.apache.commons/commons-text/srcs/commons-text-1.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: org.roaringbitmap:shims:0.7.45:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.roaringbitmap/shims/jars/shims-0.7.45.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.roaringbitmap/shims/srcs/shims-0.7.45-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

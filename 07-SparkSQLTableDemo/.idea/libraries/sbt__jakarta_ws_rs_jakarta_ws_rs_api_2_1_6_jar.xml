@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: jakarta.ws.rs:jakarta.ws.rs-api:2.1.6:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/jakarta.ws.rs/jakarta.ws.rs-api/bundles/jakarta.ws.rs-api-2.1.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/jakarta.ws.rs/jakarta.ws.rs-api/srcs/jakarta.ws.rs-api-2.1.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
