@@ -11,7 +11,7 @@ This is the central repository for all the materials related to <em>Apache Spark
 
 <h2> Description </h2>
 <p align="justify">
-I am creating Apache Spark 3 - Spark Programming in Scala for Beginners course to help you understand the Spark programming and apply that knowledge to build data engineering solutions. This course is example-driven and follows a working session like approach. We will be taking a live coding approach and explain all the needed concepts along the way.
+  I am creating <em>Apache Spark 3 - Spark Programming in Scala for Beginners </em>course to help you understand the Spark programming and apply that knowledge to build data engineering solutions. This course is example-driven and follows a working session like approach. We will be taking a live coding approach and explain all the needed concepts along the way.
 </p>
 
 <h3>Who should take this Course?</h3>
