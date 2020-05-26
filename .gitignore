@@ -1,0 +1,10 @@
+# Leave entire .idea folder and project folder
+*/.idea/*
+*/*.iml
+*project
+
+# Leave log files
+*app-logs*
+
+# Leave target directory
+*/target/*
