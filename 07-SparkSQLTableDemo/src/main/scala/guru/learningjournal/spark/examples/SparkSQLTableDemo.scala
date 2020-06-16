@@ -24,8 +24,9 @@ object SparkSQLTableDemo extends Serializable {
 
     flightTimeParquetDF.write
       .mode(SaveMode.Overwrite)
+      .format("csv")
       //.partitionBy("ORIGIN", "OP_CARRIER")
-      .bucketBy(5, "OP_CARRIER", "ORIGIN")
+      .bucketBy(5, "ORIGIN", "OP_CARRIER")
       .sortBy("ORIGIN", "OP_CARRIER")
       .saveAsTable("MY_DB.flight_data")
 
