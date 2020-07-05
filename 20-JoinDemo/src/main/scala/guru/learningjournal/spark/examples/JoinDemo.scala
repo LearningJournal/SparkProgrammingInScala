@@ -22,7 +22,7 @@ object JoinDemo extends Serializable {
 
     val joinDF = flightTimeDF1.join(flightTimeDF2, joinExpr, "inner")
 
-    joinDF.show()
+    joinDF.foreach(_ => ())
     scala.io.StdIn.readLine()
   }
 
