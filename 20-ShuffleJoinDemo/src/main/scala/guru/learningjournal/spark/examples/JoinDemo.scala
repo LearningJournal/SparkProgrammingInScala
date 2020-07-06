@@ -19,8 +19,8 @@ object JoinDemo extends Serializable {
     spark.conf.set("spark.sql.shuffle.partitions", 3)
 
     val joinExpr = flightTimeDF1.col("id") === flightTimeDF2.col("id")
-
-    val joinDF = flightTimeDF1.join(flightTimeDF2, joinExpr, "inner")
+    import org.apache.spark.sql.functions.broadcast
+    val joinDF = flightTimeDF1.join(broadcast(flightTimeDF2), joinExpr, "inner")
 
     joinDF.foreach(_ => ())
     scala.io.StdIn.readLine()
