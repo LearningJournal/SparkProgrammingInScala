@@ -5,6 +5,9 @@
 
 # Leave log files
 *app-logs*
+*derby.log
 
 # Leave target directory
 */target/*
+*/metastore_db*
+*/spark-warehouse*
