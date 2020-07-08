@@ -47,7 +47,7 @@ object SparkJoinDemo extends Serializable {
     val productRenamedDF = productDF.withColumnRenamed("qty", "reorder_qty")
 
     orderDF.join(productRenamedDF, joinExpr, joinType)
-      .drop(productDF.col("prod_id"))
+      .drop(productRenamedDF.col("prod_id"))
       .select("order_id", "prod_id", "prod_name", "unit_price", "list_price", "qty")
       .show()
   }
