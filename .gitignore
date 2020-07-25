@@ -11,3 +11,4 @@
 */target/*
 */metastore_db*
 */spark-warehouse*
+*/output*
